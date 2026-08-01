@@ -104,6 +104,31 @@ Performed analysis to understand:
 - Required feature scaling
 
 ---
+# 📊 Project Visualizations
+
+## Model Accuracy Comparison
+
+![Model Accuracy Comparison](images\comparison graph.png)
+
+---
+
+## Random Forest Feature Importance
+
+![Feature Importance](images\Feature importance.png)
+
+---
+
+## KNN Hyperparameter Tuning
+
+![KNN Hyperparameter Tuning](images\KNN Hyperparameter Tuning.png)
+
+---
+
+## SVM Confusion Matrix
+
+![SVM Confusion Matrix](images\Best model confusion matrix.png)
+
+---
 
 ## 📌 Key Observations
 
