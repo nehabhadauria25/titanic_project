@@ -106,28 +106,14 @@ Performed analysis to understand:
 ---
 # 📊 Project Visualizations
 
-## Model Accuracy Comparison
 
-![Model Accuracy Comparison](images\comparison graph.png)
+![Model Accuracy Comparison](images/comparison_graph.png)
 
----
+![Feature Importance](images/feature_importance.png)
 
-## Random Forest Feature Importance
+![KNN Hyperparameter Tuning](images/knn_hyperparameter_tuning.png)
 
-![Feature Importance](images\Feature importance.png)
-
----
-
-## KNN Hyperparameter Tuning
-
-![KNN Hyperparameter Tuning](images\KNN Hyperparameter Tuning.png)
-
----
-
-## SVM Confusion Matrix
-
-![SVM Confusion Matrix](images\Best model confusion matrix.png)
-
+![SVM Confusion Matrix](images/best_model_confusion_matrix.png)
 ---
 
 ## 📌 Key Observations
